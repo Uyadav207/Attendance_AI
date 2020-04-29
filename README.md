@@ -16,4 +16,4 @@
     </a>
 </p>
 
-### Attendance AI - Jarvis is a bot help in recognizing the clients. who are saved in the database.
+### Attendance AI - Jarvis is a bot help in recognizing the clients. who are saved in the database. The bot has an UI for user to use
